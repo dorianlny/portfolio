@@ -1,185 +1,476 @@
 [{
-  "title": "Agata - Home Assistant",
+  "title": "Edelstorm - Documentation",
   "category": [ "design", "code" ],
-  "client": "Agata",
-  "year": "2017",
+  "client": "Edelstorm",
+  "year": "2019",
   "featured": true,
-  "url": "https://www.behance.net/gallery/62481525/Agata-Home-Automation",
+  "url": "/images/works/edelstorm/edelstorm-documentation.png",
   "image": {
-    "src": "/images/works/agata/agata-home-assistant.png",
+    "src": "/images/works/documentation/website-square.jpg",
     "sources": [{
       "media": "max-width: 40rem",
       "srcset": [
-        "/images/works/agata/agata-home-assistant-square.jpg 1x",
-        "/images/works/agata/agata-home-assistant-square-2x.jpg 2x",
-        "/images/works/agata/agata-home-assistant-square-3x.jpg 3x"
+        "/images/works/documentation/website-square.jpg 1x",
+        "/images/works/documentation/website-square-2x.jpg 2x",
+        "/images/works/documentation/website-square-3x.jpg 3x"
       ]      
     },{
       "srcset": [
-        "/images/works/agata/agata-home-assistant.jpg 1x",
-        "/images/works/agata/agata-home-assistant-2x.jpg 2x",
-        "/images/works/agata/agata-home-assistant-3x.jpg 3x"
+        "/images/works/documentation/website.jpg 1x",
+        "/images/works/documentation/website-2x.jpg 2x",
+        "/images/works/documentation/website-3x.jpg 3x"
       ]      
     }]
   }
 },{
-  "title": "App Quality",
+  "title": "Brigitte Bizord - Website",
   "category": [ "design" ],
-  "collaborators": [ "Incode" ],
-  "client": "App Quality",
-  "year": "2017",
+  "collaborators": [ "Brigitte Bizord" ],
+  "client": "Brigitte Bizord",
+  "year": "2018",
   "featured": true,
+  "url": "/images/works/edelstorm/bizord.png",
   "image": {
-    "src": "/images/works/app-quality/app-quality-website.png",
+    "src": "/images/works/bizord/website.jpg",
     "sources": [{
       "media": "max-width: 40rem",
       "srcset": [
-        "/images/works/app-quality/app-quality-website-square.jpg 1x",
-        "/images/works/app-quality/app-quality-website-square-2x.jpg 2x",
-        "/images/works/app-quality/app-quality-website-square-3x.jpg 3x"
+        "/images/works/bizord/website-square.jpg 1x",
+        "/images/works/bizord/website-square-2x.jpg 2x",
+        "/images/works/bizord/website-square-3x.jpg 3x"
       ]      
     },{
       "srcset": [
-        "/images/works/app-quality/app-quality-website.jpg 1x",
-        "/images/works/app-quality/app-quality-website-2x.jpg 2x",
-        "/images/works/app-quality/app-quality-website-3x.jpg 3x"
+        "/images/works/bizord/website.jpg 1x",
+        "/images/works/bizord/website-2x.jpg 2x",
+        "/images/works/bizord/website-3x.jpg 3x"
       ]      
     }]
   }
 },{
-  "title": "Enco Website",
+  "title": "Emma Paris - Website",
   "category": [ "design" ],
-  "client": "Net Magazine",
+  "client": "Emma Paris",
+  "year": "2018",
+  "featured": true,
+  "url": "/images/works/edelstorm/emma-paris.png",
+  "image": {
+    "src": "/images/works/emma-paris/website-square.jpg",
+    "sources": [{
+      "media": "max-width: 40rem",
+      "srcset": [
+        "/images/works/emma-paris/website-square.jpg 1x",
+        "/images/works/emma-paris/website-square-2x.jpg 2x",
+        "/images/works/emma-paris/website-square-3x.jpg 3x"
+      ]      
+    },{
+      "srcset": [
+        "/images/works/emma-paris/website.jpg 1x",
+        "/images/works/emma-paris/website-2x.jpg 2x",
+        "/images/works/emma-paris/website-3x.jpg 3x"
+      ]      
+    }]
+  }
+},{
+  "title": "La Tribu des Terroirs - Website",
+  "category": [ "design" ],
+  "client": "La Tribu des Terroirs",
+  "year": "2018",
+  "featured": true,
+  "url": "/images/works/edelstorm/latribudesterroirs.png",
+  "image": {
+    "src": "/images/works/latribudesterroirs/mobile-apps.jpg",
+    "sources": [{
+      "media": "max-width: 40rem",
+      "srcset": [
+        "/images/works/latribudesterroirs/mobile-apps-square.jpg 1x",
+        "/images/works/latribudesterroirs/mobile-apps-square-2x.jpg 2x",
+        "/images/works/latribudesterroirs/mobile-apps-square-3x.jpg 3x"
+      ]      
+    },{
+      "srcset": [
+        "/images/works/latribudesterroirs/mobile-apps.jpg 1x",
+        "/images/works/latribudesterroirs/mobile-apps-2x.jpg 2x",
+        "/images/works/latribudesterroirs/mobile-apps-3x.jpg 3x"
+      ]      
+    }]
+  }
+},{
+  "title": "Dashboard",
+  "category": [ "product" ],
+  "client": "Philips",
+  "url": "/images/works/philips/dashboard.png",
+  "year": "2020",
+  "featured": false
+},{
+  "title": "Product Details",
+  "category": [ "product" ],
+  "client": "Philips",
+  "url": "/images/works/philips/product-details.png",
+  "year": "2020",
+  "featured": false
+},{
+  "title": "Showcase",
+  "category": [ "product" ],
+  "client": "Philips",
+  "url": "/images/works/philips/product-showcase.png",
+  "year": "2020",
+  "featured": false
+},{
+  "title": "Product Section",
+  "category": [ "product" ],
+  "client": "Philips",
+  "url": "/images/works/philips/product-section.png",
+  "year": "2020",
+  "featured": false
+},{
+  "title": "Product Landing",
+  "category": [ "product" ],
+  "client": "Philips",
+  "url": "/images/works/philips/product-landing.png",
+  "year": "2020",
+  "featured": false
+},{
+  "title": "Category",
+  "category": [ "product" ],
+  "client": "Philips",
+  "url": "/images/works/philips/product-category.png",
+  "year": "2019",
+  "featured": false
+},{
+  "title": "Menu Dropdown",
+  "category": [ "product" ],
+  "client": "Philips",
+  "url": "/images/works/philips/menu-dropdown.png",
+  "year": "2019",
+  "featured": false
+},{
+  "title": "Order Steps",
+  "category": [ "product" ],
+  "client": "Philips",
+  "url": "/images/works/philips/order-steps.png",
+  "year": "2019",
+  "featured": false
+},{
+  "title": "Basket",
+  "category": [ "product" ],
+  "client": "Philips",
+  "url": "/images/works/philips/product-basket.png",
+  "year": "2019",
+  "featured": false
+},{
+  "title": "Shop",
+  "category": [ "product" ],
+  "client": "Philips",
+  "url": "/images/works/philips/product-shop.png",
+  "year": "2019",
+  "featured": false
+},{
+  "title": "Related Products",
+  "category": [ "product" ],
+  "client": "Philips",
+  "url": "/images/works/philips/related-products.png",
+  "year": "2019",
+  "featured": false
+},{
+  "title": "Create Account",
+  "category": [ "product" ],
+  "client": "Philips",
+  "url": "/images/works/philips/create-account.png",
+  "year": "2019",
+  "featured": false
+},{
+  "title": "Login",
+  "category": [ "product" ],
+  "client": "Philips",
+  "url": "/images/works/philips/login.png",
+  "year": "2019",
+  "featured": false
+},{
+  "title": "Documentation",
+  "category": [ "product" ],
+  "client": "Edelstorm Documentation",
+  "url": "/images/works/edelstorm/edelstorm-documentation.png",
+  "year": "2018",
+  "featured": false
+},{
+  "title": "Foods - Website",
+  "category": [ "product" ],
+  "client": "La Tribu des Terroirs",
+  "url": "/images/works/edelstorm/latribudesterroirs.png",
+  "year": "2018",
+  "featured": false
+},{
+  "title": "Sass - Website",
+  "category": [ "design" ],
+  "client": "product",
+  "url": "/images/works/edelstorm/kepler.jpeg",
+  "year": "2018",
+  "featured": false
+},{
+  "title": "Wellness Center - Website",
+  "category": [ "product" ],
+  "client": "Emma Paris",
+  "url": "/images/works/edelstorm/emma-paris.png",
+  "year": "2018",
+  "featured": false
+},{
+  "title": "Artist - Website",
+  "category": [ "design" ],
+  "client": "Brigitte Bizord",
+  "url": "/images/works/edelstorm/bizord.png",
+  "year": "2017",
+  "featured": false
+},{
+  "title": "Architecture - Website",
+  "category": [ "design" ],
+  "client": "Euditra",
+  "url": "/images/works/edelstorm/euditra.png",
+  "year": "2017",
+  "featured": false
+},{
+  "title": "Photography - Website",
+  "category": [ "design" ],
+  "client": "BL",
+  "url": "/images/works/edelstorm/bricelannay.jpeg",
+  "year": "2017",
+  "featured": false
+},{
+  "title": "Agency - Website",
+  "category": [ "product" ],
+  "client": "Edelstorm",
+  "url": "/images/works/edelstorm/edelstorm-new.jpeg",
+  "year": "2017",
+  "featured": false
+},{
+  "title": "Architecture - Website",
+  "category": [ "design" ],
+  "client": "The Hungry Travelista",
+  "url": "/images/works/edelstorm/thehungrytravelista.jpeg",
   "year": "2016",
-  "featured": true,
-  "url": "https://dribbble.com/shots/3142361-Enco-Extreme-climbing-centers",
-  "image": {
-    "src": "/images/works/enco/enco-website.png",
-    "sources": [{
-      "media": "max-width: 40rem",
-      "srcset": [
-        "/images/works/enco/enco-website-square.jpg 1x",
-        "/images/works/enco/enco-website-square-2x.jpg 2x",
-        "/images/works/enco/enco-website-square-3x.jpg 3x"
-      ]      
-    },{
-      "srcset": [
-        "/images/works/enco/enco-website.jpg 1x",
-        "/images/works/enco/enco-website-2x.jpg 2x",
-        "/images/works/enco/enco-website-3x.jpg 3x"
-      ]      
-    }]
-  }
+  "featured": false
 },{
-  "title": "Kenzai's Mobile Apps",
+  "title": "Writer - Website",
   "category": [ "design" ],
-  "client": "Kenzai Inc.",
-  "year": "2016",
-  "featured": true,
-  "image": {
-    "src": "/images/works/kenzai/kenzai-mobile-apps.png",
-    "sources": [{
-      "media": "max-width: 40rem",
-      "srcset": [
-        "/images/works/kenzai/kenzai-mobile-apps-square.jpg 1x",
-        "/images/works/kenzai/kenzai-mobile-apps-square-2x.jpg 2x",
-        "/images/works/kenzai/kenzai-mobile-apps-square-3x.jpg 3x"
-      ]      
-    },{
-      "srcset": [
-        "/images/works/kenzai/kenzai-mobile-apps.jpg 1x",
-        "/images/works/kenzai/kenzai-mobile-apps-2x.jpg 2x",
-        "/images/works/kenzai/kenzai-mobile-apps-3x.jpg 3x"
-      ]      
-    }]
-  }
-},{
-  "title": "Fifty Finance - website",
-  "category": [ "design" ],
-  "client": "Fifty Finance",
-  "collaborators": ["Incode"],
-  "year": "2017",
-  "featured": false
-},{
-  "title": "Savi - website",
-  "category": [ "design", "development" ],
-  "client": "Savi srl",
-  "url": "http://www.saviweb.com/",
-  "collaborators": ["One Farm Design"],
-  "year": "2017",
-  "featured": false
-},{
-  "title": "FreeJourn",
-  "category": [ "design", "development" ],
-  "client": "FreeJourn",
-  "collaborators": ["Incode"],
-  "url": "https://www.freejourn.com/it/pages/static/how_it_works",
-  "year": "2017",
-  "featured": false
-},{
-  "title": "Kenzai's Website",
-  "category": [ "design" ],
-  "client": "Kenzai Inc.",
-  "year": "2015",
-  "url": "https://dribbble.com/shots/2714698-Health-service-website/attachments/549057",
-  "featured": false
-},{
-  "title": "BEE pro",
-  "category": [ "design", "code" ],
-  "client": "MailUp",
-  "collaborators": ["MailUp"],
-  "url": "https://pro.beefree.io/login",
+  "client": "Edelstorm",
+  "url": "/images/works/edelstorm/caroline-suchodolski.png",
   "year": "2016",
   "featured": false
 },{
-  "title": "CREW Cremonesi - website",
-  "category": [ "design", "code" ],
-  "client": "CREW Cremonesi",
-  "collaborators": ["Incode"],
-  "url": "http://crew.it/",
+  "title": "Sport - Website",
+  "category": [ "design" ],
+  "client": "Find Your Fit",
+  "url": "/images/works/edelstorm/findyourfit.png",
+  "year": "2016",
+  "featured": false
+},{
+  "title": "Book - Website",
+  "category": [ "product" ],
+  "client": "Makhila",
+  "url": "/images/works/edelstorm/makhila.png",
+  "year": "2016",
+  "featured": false
+},{
+  "title": "Agency - Website",
+  "category": [ "design" ],
+  "client": "The Real Thrill",
+  "url": "/images/works/edelstorm/therealthrill.png",
+  "year": "2016",
+  "featured": false
+},{
+  "title": "Sass - Website",
+  "category": [ "design" ],
+  "client": "Edelstorm",
+  "url": "/images/works/edelstorm/edelstorm-old.png",
+  "year": "2016",
+  "featured": false
+},{
+  "title": "Klepierre",
+  "category": [ "advertising" ],
+  "client": "Klepierre",
+  "url": "/images/works/orange/klepierre.png",
   "year": "2015",
   "featured": false
 },{
-  "title": "Manfrotto School Of Xcellence",
-  "category": [ "design", "code" ],
-  "client": "Manfrotto",
-  "collaborators": ["Incode"],
+  "title": "Application",
+  "category": [ "advertising" ],
+  "client": "Toulouse Blagnac",
+  "url": "/images/works/orange/toulouse-blagniac-app.png",
   "year": "2015",
   "featured": false
 },{
-  "title": "Beast Technologies - website",
-  "category": [ "code" ],
-  "client": "Beast Technologies",
-  "collaborators": ["Incode"],
+  "title": "BPI France",
+  "category": [ "advertising" ],
+  "client": "Vinci",
+  "url": "/images/works/orange/bpifrance-vinci.png",
   "year": "2015",
   "featured": false
 },{
-  "title": "Isolconfort",
-  "category": [ "design", "code" ],
-  "client": "Isolconfort",
-  "collaborators": ["Incode"],
+  "title": "Grand Voyageur - Mobile",
+  "category": [ "advertising" ],
+  "client": "SNCF",
+  "url": "/images/works/orange/grand-voyageur-sncf.png",
   "year": "2015",
   "featured": false
 },{
-  "title": "Cobox - website",
-  "category": [ "design", "code" ],
-  "client": "CRIT",
-  "collaborators": ["Incode"],
-  "url": "https://dribbble.com/shots/1705611-Coworking-Space",
+  "title": "Grand Voyageur - Desktop",
+  "category": [ "advertising" ],
+  "client": "SNCF",
+  "url": "/images/works/orange/login-sncf-grand-voyageur.png",
+  "year": "2015",
+  "featured": false
+},{
+  "title": "Foundation LV",
+  "category": [ "design" ],
+  "client": "Louis Vuitton",
+  "url": "/images/works/orange/louis-vuitton.png",
+  "year": "2015",
+  "featured": false
+},{
+  "title": "Netflix",
+  "category": [ "design" ],
+  "client": "Netflix",
+  "url": "/images/works/orange/netflix-sncf.png",
+  "year": "2015",
+  "featured": false
+},{
+  "title": "Opel",
+  "category": [ "advertising" ],
+  "client": "Opel",
+  "url": "/images/works/orange/opel-sncf.png",
+  "year": "2015",
+  "featured": false
+},{
+  "title": "Pink Floyd - Desktop",
+  "category": [ "design" ],
+  "client": "SNCF",
+  "url": "/images/works/orange/pink-floyd-desktop-sncf.png",
+  "year": "2015",
+  "featured": false
+},{
+  "title": "Pink Floyd - Tablet",
+  "category": [ "advertising" ],
+  "client": "SNCF",
+  "url": "/images/works/orange/pink-floyd-sncf.png",
+  "year": "2015",
+  "featured": false
+},{
+  "title": "SNCF - AuthForm",
+  "category": [ "design" ],
+  "client": "SNCF",
+  "url": "/images/works/orange/login-sncf.png",
+  "year": "2015",
+  "featured": false
+},{
+  "title": "Mons",
+  "category": [ "design" ],
+  "client": "Ville de Mons",
+  "url": "/images/works/orange/mons.png",
   "year": "2014",
   "featured": false
 },{
-  "title": "La Pagoda",
-  "category": [ "design", "code" ],
-  "client": "La Pagoda",
-  "collaborators": ["asaquattrocento"],
-  "url": "https://dribbble.com/shots/1655479-Ethnic-furniture-website",
+  "title": "Nice Jazz",
+  "category": [ "advertising" ],
+  "client": "Ville de Nice",
+  "url": "/images/works/orange/nice.png",
   "year": "2014",
   "featured": false
 },{
-  "title": "Half House - website",
-  "category": [ "design", "code" ],
-  "client": "One Farm Design",
+  "title": "Jingle",
+  "category": [ "design" ],
+  "client": "SNCF",
+  "url": "/images/works/orange/jingle-sncf.png",
   "year": "2014",
+  "featured": false
+},{
+  "title": "La Défense",
+  "category": [ "design" ],
+  "client": "Defacto",
+  "url": "/images/works/orange/defacto.png",
+  "year": "2014",
+  "featured": false
+},{
+  "title": "Poitier",
+  "category": [ "design" ],
+  "client": "Vinci",
+  "url": "/images/works/orange/poitiers-vinci.png",
+  "year": "2014",
+  "featured": false
+},{
+  "title": "Gare Gourmande",
+  "category": [ "advertising" ],
+  "client": "SNCF",
+  "url": "/images/works/orange/gare-gourmande-sncf.png",
+  "year": "2014",
+  "featured": false
+},{
+  "title": "eTiquette",
+  "category": [ "advertising" ],
+  "client": "SNCF",
+  "url": "/images/works/orange/capa-wifi.png",
+  "year": "2014",
+  "featured": false
+},{
+  "title": "Smartcity",
+  "category": [ "design" ],
+  "client": "Nomosphere",
+  "url": "/images/works/orange/smarcity-nomosphere.png",
+  "year": "2014",
+  "featured": false
+},{
+  "title": "Capa",
+  "category": [ "design" ],
+  "client": "Paesi d'Aiacc",
+  "url": "/images/works/orange/capa-wifi.png",
+  "year": "2014",
+  "featured": false
+},{
+  "title": "Mailing",
+  "category": [ "design" ],
+  "client": "Venteprivee.com",
+  "url": "/images/works/orange/daycamp-mailing.jpeg",
+  "year": "2013",
+  "featured": false
+},{
+  "title": "Products Showcase",
+  "category": [ "design" ],
+  "client": "Venteprivee.com",
+  "url": "/images/works/orange/daycamp.jpeg",
+  "year": "2013",
+  "featured": false
+},{
+  "title": "Ad",
+  "category": [ "advertising" ],
+  "client": "Venteprivee.com",
+  "url": "/images/works/orange/summercamp-ads.jpeg",
+  "year": "2013",
+  "featured": false
+},{
+  "title": "AuthForm",
+  "category": [ "advertising" ],
+  "client": "Venteprivee.com",
+  "url": "/images/works/orange/summercamp-auth.jpeg",
+  "year": "2013",
+  "featured": false
+},{
+  "title": "Landing Page",
+  "category": [ "design" ],
+  "client": "Urbanpost",
+  "url": "/images/works/orange/urbanpost-landing-page.jpeg",
+  "year": "2012",
+  "featured": false
+},{
+  "title": "Website",
+  "category": [ "design" ],
+  "client": "Urbanpost",
+  "url": "/images/works/orange/urbanpost-website.jpeg",
+  "year": "2012",
+  "featured": false
+},{
+  "title": "Website",
+  "category": [ "design" ],
+  "client": "Novea",
+  "url": "/images/works/orange/novea.png",
+  "year": "2012",
   "featured": false
 }]

@@ -1,7 +1,7 @@
 {
-  "name": "michelemazzucco.it",
+  "name": "dorianlannay.fr",
   "version": "1.0.0",
-  "description": "Michele Mazzucco's personal portfolio website",
+  "description": "Dorian Lannay's personal portfolio website",
   "main": "n/a",
   "scripts": {
     "dev": "gatsby develop",
@@ -19,7 +19,7 @@
     "gatsby",
     "portfolio"
   ],
-  "author": "Michele Mazzucco <hello@michelemazzucco.it>",
+  "author": "Dorian Lannay <dorian.lannay@outlook.fr>",
   "license": "MIT",
   "browserslist": [
     "last 5 versions",

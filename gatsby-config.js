@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: '/',
   siteMetadata: {
-    siteUrl: 'https://www.michelemazzucco.it/'
+    siteUrl: 'https://www.dorianlannay.fr/'
   },
   plugins: [
     {
@@ -47,8 +47,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Michele Mazzucco',
-        short_name: 'mzzmhl',
+        name: 'Dorian Lannay',
+        short_name: 'dl',
         start_url: '/',
         background_color: '#1e2732',
         theme_color: '#1e2732',

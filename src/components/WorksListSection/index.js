@@ -11,8 +11,9 @@ const WorksListSection = ({
     <header>
       <WorksTitle>Other works</WorksTitle>
       <ButtonsWrapper>
-        <FilterButton active={category === 'design'} onClick={() => setCategory('design')}>design</FilterButton>
-        <FilterButton active={category === 'code'} onClick={() => setCategory('code')}>code</FilterButton>
+        <FilterButton active={category === 'design'} onClick={() => setCategory('design')}>Design</FilterButton>
+        <FilterButton active={category === 'product'} onClick={() => setCategory('product')}>Product</FilterButton>
+        <FilterButton active={category === 'advertising'} onClick={() => setCategory('advertising')}>Advertising</FilterButton>
         {category && <FilterButton onClick={() => setCategory(null)}>all</FilterButton>}
       </ButtonsWrapper>
     </header>

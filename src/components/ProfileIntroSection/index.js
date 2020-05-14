@@ -10,21 +10,21 @@ const ProfileIntroSection = ({ content }) =>
       <Content>{content()}</Content>
     </InfoWrapper>
     <StyledImage 
-      src="/images/profile/michele-mazzucco-portrait.jpg"
-      alt="Michele Mazzucco - Interdisciplinary Designer"
+      src="/images/profile/dorian-lannay-portrait.jpg"
+      alt="Dorian Lannay - Interdisciplinary Product Owner"
       loader={({ isLoaded }) => <Loader isLoaded={isLoaded} />}
       sources={[{
         media: 'max-width: 40rem',
         srcset: [
-          '/images/profile/michele-mazzucco-portrait-square.jpg 1x',
-          '/images/profile/michele-mazzucco-portrait-square-2x.jpg 2x',
-          '/images/profile/michele-mazzucco-portrait-square-3x.jpg 3x'
+          '/images/profile/dorian-lannay-portrait-square.jpg 1x',
+          '/images/profile/dorian-lannay-portrait-square-2x.jpg 2x',
+          '/images/profile/dorian-lannay-portrait-square-3x.jpg 3x'
         ]
       },{
         srcset: [
-          '/images/profile/michele-mazzucco-portrait.jpg 1x',
-          '/images/profile/michele-mazzucco-portrait-2x.jpg 2x',
-          '/images/profile/michele-mazzucco-portrait-3x.jpg 3x'
+          '/images/profile/dorian-lannay-portrait.jpg 1x',
+          '/images/profile/dorian-lannay-portrait-2x.jpg 2x',
+          '/images/profile/dorian-lannay-portrait-3x.jpg 3x'
         ]       
       }]}
     />

@@ -6,21 +6,21 @@ const Menu = () =>
   <Wrapper>
     <Nav>
       <NavItem>
-        <a href="https://twitter.com/MicheleMazzucco" rel="noopener noreferrer" target="_blank">Twitter</a>
+        <a href="https://www.linkedin.com/in/dorian-lannay/" rel="noopener noreferrer" target="_blank">LinkedIn</a>
       </NavItem>
       <NavItem>
-        <a href="https://dribbble.com/michelemazzucco" rel="noopener noreferrer" target="_blank">Dribbble</a>
+        <a href="https://twitter.com/dorianlannay" rel="noopener noreferrer" target="_blank">Twitter</a>
       </NavItem>
       <NavItem>
-        <a href="https://www.instagram.com/michele.mazzucco/" rel="noopener noreferrer" target="_blank">Instagram</a>
+        <a href="https://www.instagram.com/dorianlny/" rel="noopener noreferrer" target="_blank">Instagram</a>
       </NavItem>
       <NavItem>
-        <a href="https://github.com/michelemazzucco" rel="noopener noreferrer" target="_blank">Github</a>
+        <a href="https://github.com/dorianlny" rel="noopener noreferrer" target="_blank">Github</a>
       </NavItem>
     </Nav>
     <Nav>
       <NavItem>
-        <NavLink to='/'>Index</NavLink>
+        <NavLink to='/'>Home</NavLink>
       </NavItem>
       <NavItem>
         <NavLink to='/works'>Works</NavLink>

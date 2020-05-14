@@ -4,9 +4,9 @@ import { Wrapper, Title } from './style'
 const Intro = props => 
   <Wrapper {...props} >
     <Title>
-      Hi, my name is Michele Mazzucco,
-      an <span>interdisciplinary</span> designer
-      based in Brescia, Italy
+      Hi, my name is Dorian Lannay,
+      an <span>interdisciplinary</span> Product Owner
+      based in Paris.
     </Title>
   </Wrapper>
 

@@ -2,18 +2,18 @@ export const LAMBDA_ENDPOINT = 'https://kvz60gz535.execute-api.us-east-1.amazona
 export const IS_PROD = process.env.NODE_ENV === 'production'
 export const META = {
   common: {
-    image: '/images/michele-mazzucco-meta-image.jpg',
+    image: '/images/dorian-lannay-meta-image.jpg',
   },
   index: {
-    title: 'Michele Mazzucco | Interdisciplinary designer',
-    description: 'Michele Mazzucco, interdisciplinary designer based in Brescia, Italy. I focus primarily on building user interfaces that are usable and scalable.'
+    title: 'Dorian Lannay | Interdisciplinary product owner',
+    description: 'Dorian Lannay, interdisciplinary product owner based in Amsterdam, Netherlands. I focus primarily on building user interfaces that are usable and scalable.'
   },
   profile: {
-    title: 'Michele Mazzucco | Profile',
-    description: 'Over the last 4+ years, I have been working with small- and medium-size companies all over the world.'
+    title: 'Dorian Lannay | Profile',
+    description: 'Over the last 6+ years, I have been working with small- and medium-size companies all over Europe.'
   },
   works: {
-    title: 'Michele Mazzucco | Works',
-    description: 'A selection of the work carried out over 4+ years of work. Among which: Websites, Web applications, coordinated images and more.'
+    title: 'Dorian Lannay | Works',
+    description: 'A selection of the work carried out over 6+ years of work. Among which: Websites, Web applications, coordinated images and more.'
   }
 }
