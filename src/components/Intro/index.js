@@ -5,7 +5,7 @@ const Intro = props =>
   <Wrapper {...props} >
     <Title>
       Hi, my name is Dorian Lannay,
-      an <span>interdisciplinary</span> Product Owner
+      an <span>interdisciplinary</span> User Experience Designer
       based in Amsterdam.
     </Title>
   </Wrapper>
