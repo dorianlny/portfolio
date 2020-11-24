@@ -95,6 +95,21 @@
       ]      
     }]
   }
+}
+,{
+  "title": "FrontApp",
+  "category": [ "product" ],
+  "client": "FrontApp",
+  "url": "https://bit.ly/370YTJ3",
+  "year": "November 2020",
+  "featured": false
+},{
+  "title": "Maze",
+  "category": [ "product" ],
+  "client": "Maze",
+  "url": "https://bit.ly/2KANjNc",
+  "year": "October 2020",
+  "featured": false
 },{
   "title": "Dashboard",
   "category": [ "product" ],
