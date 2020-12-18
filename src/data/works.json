@@ -97,6 +97,13 @@
   }
 }
 ,{
+  "title": "G-Star Raw - Wishlist Functionality",
+  "category": [ "product" ],
+  "client": "G-Star Raw",
+  "url": "https://www.figma.com/proto/dbIej5VfxwnTDBxjMUDcDG/G-Star-Raw?node-id=1%3A2&viewport=125%2C269%2C0.0625&scaling=min-zoom",
+  "year": "December 2020",
+  "featured": false
+},{
   "title": "FrontApp",
   "category": [ "product" ],
   "client": "FrontApp",

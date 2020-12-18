@@ -6,7 +6,7 @@ const Intro = props =>
     <Title>
       Hi, my name is Dorian Lannay,
       an <span>interdisciplinary</span> User Experience Designer
-      based in Amsterdam.
+      based in Paris.
     </Title>
   </Wrapper>
 

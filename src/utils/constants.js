@@ -5,8 +5,8 @@ export const META = {
     image: '/images/dorian-lannay-meta-image.jpg',
   },
   index: {
-    title: 'Dorian Lannay | Interdisciplinary product owner',
-    description: 'Dorian Lannay, interdisciplinary product owner based in Amsterdam, Netherlands. I focus primarily on building user interfaces that are usable and scalable.'
+    title: 'Dorian Lannay | Interdisciplinary UX Designer',
+    description: 'Dorian Lannay, interdisciplinary UX Designer based in Paris, Netherlands. I focus primarily on building user interfaces that are usable and scalable.'
   },
   profile: {
     title: 'Dorian Lannay | Profile',

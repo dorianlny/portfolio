@@ -11,7 +11,7 @@ const ProfileIntroSection = ({ content }) =>
     </InfoWrapper>
     <StyledImage 
       src="/images/profile/dorian-lannay-portrait.jpg"
-      alt="Dorian Lannay - Interdisciplinary Product Owner"
+      alt="Dorian Lannay - Interdisciplinary UX Designer"
       loader={({ isLoaded }) => <Loader isLoaded={isLoaded} />}
       sources={[{
         media: 'max-width: 40rem',
